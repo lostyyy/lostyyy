@@ -1,6 +1,6 @@
 ## _Bom dia primeiro ne_
 
-EU SOU:
+EU SOU:>
 
     - Meu nome é peitudogostoso
     - Eu sou estudante da escola nem sei o nome
